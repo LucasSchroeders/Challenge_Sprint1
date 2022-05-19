@@ -22,13 +22,14 @@ public class Relevo {
 	public void setIdRelevo(Integer idRelevo) {
 		this.idRelevo = idRelevo;
 	}
-	
-	public String getNomeRelevo() {
+
+	public String getTipoRelevo() {
 		return tipoRelevo;
 	}
-	
-	public void setNomeRelevo(String tipoRelevo) {
+
+	public void setTipoRelevo(String tipoRelevo) {
 		this.tipoRelevo = tipoRelevo;
 	}
+
 
 }
